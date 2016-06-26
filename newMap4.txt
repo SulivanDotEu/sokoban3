@@ -1,0 +1,10 @@
+map
+8 11
+cwwwwwwwwcc
+cwcpwcccwcc
+cwcbccbcwcc
+cwbcwwwwwww
+wwcbwcccccw
+wrcrcrccccw
+wrccwwwwwww
+wwwwwcccccc

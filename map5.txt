@@ -1,0 +1,14 @@
+map
+12 11
+wwwwwwwwccc
+wccwcccwccc
+wcccbccwccc
+wcbwwcwwwww
+wwcwrcwwccw
+cwcwrcccbcw
+cwcwrcwwccw
+cwcwrwwwcww
+cwpcccwwccw
+cwwcbcccccw
+ccwwwwwwccw
+cccccccwwww

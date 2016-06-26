@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Model">
+      <UniqueIdentifier>{7ff25e67-c469-45ef-b1ed-6af05a7e5789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Model">
+      <UniqueIdentifier>{5dc4b377-182a-4c38-9de8-0ae4c43e0adb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Vue">
+      <UniqueIdentifier>{83024a89-631c-4c83-9730-bff8675a2b94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Vue">
+      <UniqueIdentifier>{33df116d-d27d-4116-af36-3b2b8493cfc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Vue\BoutonsGraphiques">
+      <UniqueIdentifier>{e3328ffa-9c58-40d0-9adb-1f5fd6ad185f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Vue\BoutonsGraphiques">
+      <UniqueIdentifier>{9fd37f7d-fc3c-46f7-8ca6-08bbf88f529c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Vue\Log">
+      <UniqueIdentifier>{106275aa-bec6-4bf9-beba-05ae7c9f0e75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Vue\Log">
+      <UniqueIdentifier>{d4a24737-76a8-412d-acc1-cc7e1ebe1b9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Case.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="WallView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="ClickController.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="controlView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="EventController.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="ReceiverView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="Bouton.cpp">
+      <Filter>Fichiers sources\Vue\BoutonsGraphiques</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Fichiers sources\Vue\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="LogView.cpp">
+      <Filter>Fichiers sources\Vue\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseContents.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="MyView.cpp">
+      <Filter>Fichiers sources\Vue</Filter>
+    </ClCompile>
+    <ClCompile Include="Save.cpp">
+      <Filter>Fichiers sources\Vue\BoutonsGraphiques</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Case.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="WallView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="ClickController.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="controlView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="EventController.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="ReceiverView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="Bouton.h">
+      <Filter>Fichiers d%27en-tête\Vue\BoutonsGraphiques</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Fichiers d%27en-tête\Vue\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="LogView.h">
+      <Filter>Fichiers d%27en-tête\Vue\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseContents.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="ConcreteCommands.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="MyView.h">
+      <Filter>Fichiers d%27en-tête\Vue</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="map1.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="wall-1.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="box.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="ground-1.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="levels.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="map2.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="map3.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="receiver.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="map4.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="droite.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="gauche.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="haut.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="open.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="save.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="bas.png">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="map5.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="readme.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="newMap1.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="newMap2.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="newMap3.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="newMap4.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="newMap5.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

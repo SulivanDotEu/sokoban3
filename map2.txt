@@ -1,0 +1,12 @@
+map
+10 9
+cwwwwwwwc
+wcbcccrrw
+wcccccrrw
+wcccccccw
+wccbbcccw
+wcccccccw 
+cwcccwcbw 
+cwcpcwccw 
+cwcccccww
+ccwwwwwcc

@@ -1,0 +1,8 @@
+﻿La génération a démarré 15-07-13 14:48:25.
+     1>Projet "E:\PPG-BULTOT-ELLIS-IT3\testOSG.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(42,5): error MSB8020: The builds tools for Visual Studio 2010 (Platform Toolset = 'v100') cannot be found. To build using the v100 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install Visual Studio 2010 to build using the Visual Studio 2010 build tools.
+     1>Génération du projet "E:\PPG-BULTOT-ELLIS-IT3\testOSG.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.02

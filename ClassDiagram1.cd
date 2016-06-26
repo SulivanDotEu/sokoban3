@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClickController" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClickController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBox" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAACAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Box.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Case" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAgAQAAgAAAACAAAAAAABAEAABAAAABAJgAGAAQAA=</HashCode>
+      <FileName>Case.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaseContents" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQEAACAAAAAAAEAAAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>CaseContents.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Left" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAIAAA=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Right" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAIAAA=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Up" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Down" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoom" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dezoom" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UndoCommand" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>ConcreteCommands.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEJQAAAAARQAAAACAACAAAAmFAIABBAAIABBAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAAAAAABRCAIgCAAAAACIBgAIQIgAgIABAAJAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAACAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxView" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIKAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BoxView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlView" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAQAgAAAAAQAAAAQAAAIAAAAAAACAAAA=</HashCode>
+      <FileName>controlView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventController" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAEAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameView" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAhAACAAAgAAgAAwgACAATAAAIAAAAIAAAAAAgAAAAA=</HashCode>
+      <FileName>GameView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectView" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAAAAAAAEAAAAAAACAAAAgAAAAAAAAAAIAAA=</HashCode>
+      <FileName>ObjectView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Platform" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAABAAAAAAgAACAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Platform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerView" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAAAAAAAAAgAACAAAAQAAAAAAAAEAAAAA=</HashCode>
+      <FileName>PlayerView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReceiverView" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAISAAAAAAAIAAAAgAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReceiverView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyView" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAABAAAgAAAggAAgARCAAABCAAQAAAAAAAAABEA=</HashCode>
+      <FileName>MyView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WallView" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAAAAAAAAAgAACAAAAAAAAAAAAACAQAAA=</HashCode>
+      <FileName>WallView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bouton" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAAAAAAAAQgAACAAAAAAAAAAAAQAAAAIA=</HashCode>
+      <FileName>Bouton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveBoutonView" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAgAAAAAAAAgAACAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Save.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogView" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAgAAAAAgAAAAAQAAAAAAAgIAAAAAAACAAAA=</HashCode>
+      <FileName>LogView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextBox" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAACIgAAAAAAAACgCCAAAAgAAIAAAABAAIAAA=</HashCode>
+      <FileName>TextBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

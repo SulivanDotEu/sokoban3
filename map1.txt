@@ -1,0 +1,11 @@
+map
+9 9
+wwwwwwwww
+wcccccccw
+wpbcrcwcw
+wrccccwbw
+wccrccwcw
+wcwwcbccw 
+wcccbcccw 
+wcwccccrw 
+wwwwwwwww
